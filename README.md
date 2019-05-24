@@ -5,7 +5,7 @@ Test First Repository
 
 # Other Pages
 - [page1](https://github.com/localpiaic/test-repo/blob/Readme-work/page1.md)
-- [page2](https://github.com/localpiaic/test-repo/blob/Readme-work/page1.md)
+- [page2](https://github.com/localpiaic/test-repo/blob/Readme-work/page2.md)
 
 # Reference URLS 
 
